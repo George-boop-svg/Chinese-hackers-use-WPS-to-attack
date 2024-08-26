@@ -1,4 +1,4 @@
-# Chinese-hackers-use-WPS-to-attack
+# Chinese-hackers-use-WPS 0day-to-attack
 We caught a batch of malicious attacks from Chinese hackers!We caught a batch of malicious attacks from Chinese hackers
 # China-office-software-wps-web-command-execution
 When the wps software is running, an api interface with port 4709 will be opened. An attacker can request this interface to execute commands.
